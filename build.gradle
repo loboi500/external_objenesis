@@ -1,18 +1,3 @@
-apply plugin: 'java'
-
-sourceSets {
-    main {
-        java {
-            srcDirs = ['main/src']
-        }
-    }
-}
-
-jar {
-    baseName 'objenesis'
-    classifier 'target'
-}
-
-dependencies {
-    compile getAndroidPrebuilt('10')
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b80337f6e1b91cd56a7452ddf17b5268081032309f5906dc23ebfbde129e3f19
+size 227

@@ -1,0 +1,13 @@
+tck-android filter=lfs diff=lfs merge=lfs -text
+update_source.sh filter=lfs diff=lfs merge=lfs -text
+build.gradle filter=lfs diff=lfs merge=lfs -text
+main filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+README.android filter=lfs diff=lfs merge=lfs -text
+tck filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+LICENSE.txt filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+README.version filter=lfs diff=lfs merge=lfs -text

@@ -1,8 +1,3 @@
-Objenesis is a library which makes it easier to instantiate objects bypassing
-Java's standard constructor mechanism. This is sometimes useful in tests, and
-is used in particular by Mockito.
-
-See https://code.google.com/p/objenesis/
-
-The source code can be updated using the update_source.sh script.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e089719925df49af94e3d8620f1c7804d21dc4af54d17c4ca0c9dca93a7a9e0c
+size 300
